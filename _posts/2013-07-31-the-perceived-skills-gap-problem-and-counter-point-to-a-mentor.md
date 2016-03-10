@@ -1,0 +1,24 @@
+---
+ID: 1263
+post_title: '[Rant] The perceived skills gap problem and counter point to a mentor'
+author: Jonathan Frappier
+post_date: 2013-07-31 11:47:15
+post_excerpt: ""
+layout: post
+permalink: >
+  http://www.virtxpert.com/the-perceived-skills-gap-problem-and-counter-point-to-a-mentor/
+published: true
+dsq_thread_id:
+  - "1551777605"
+---
+<em>Disclaimer:  I used to work (indirectly) for Gary Beach at CXO Media, Inc. from 2000-2005.  This post is my own option on the "Technology Skills Gap" and was not written for, or reviewed by my former employer.  Please see my <a href="http://www.virtxpert.com/disclaimer/" target="_blank">disclaimer</a> page for more information.</em>
+
+Recently the <a href="http://bits.blogs.nytimes.com/2013/07/19/a-tech-veteran-takes-on-the-skills-gap/?_r=1" target="_blank">NY Times</a> posted an article about a book from a former leader, and mentor of sorts to me; <a href="https://twitter.com/GBeachCIO" target="_blank">Gary Beach</a> and his new book called The <a href="http://www.amazon.com/The-U-S-Technology-Skills-Gap-Website/dp/1118477995/ref=sr_1_1?ie=UTF8&amp;qid=1375122309" target="_blank">U.S.Technology Skills Gap: What Every Technology Executive Must Know to Save America's Future</a>.  While I agree with most of what the NY Times points out from the book; how our educational system is severely lacking (don't get me started on the "everyone wins" mentality we have been raising our kids on) I think the problem with the perceived skills gap is a result of our own corporate greed and cost cutting efforts; specifically in technology related roles.
+
+When I first started in IT, there were very specific roles and responsibilities within an IT group - network people made things switch and route, desktop people made Word work, DBA's data'ed stuff and so on.  Now yes, as technology evolves some of those roles and responsibilities become blurred but you were - even in a smaller company, expected to posses a finite set of skills and knowledge to perform you job.  Today, a singular job description reads like the skills that would have made up a 6 or 7 person IT team - is it any wonder that non-IT managers perceive a skills gap when they are expecting to find a singular person with so much experience and knowledge that would have had to work the equivalent of 10 years in a 5 year period?  Just take a look at a random "IT Manager" job description, understanding of Windows XP/7, Office 201x, handheld devices, Server 2003-2012, Active Directory, SharePoint, SQL, Exchange, backups, firewalls, switches, routing, VLANs, VMware, patching, storage and now even bleeding into DevOps type work such as release management.  With all due respect to anyone who would write such a job description, you are simply sticking your fingers in your ears and screaming LALALALALALA if you think you will find anyone with expertise in all those areas.
+
+The points the NY Times article points out, a problem with education, and a recent <a href="http://www.linkedin.com/today/post/article/20130731045642-2607450-do-we-have-the-grit-to-close-the-skills-gap?trk=NUS_UNIU_PEOPLE_FOLLOW-megaphone-fllw" target="_blank">article from By Jay Banfield from Year-Up</a>, point out that its not a SKILL gap, but rather a problem with intangibles that many people lack.  One major problem I see, that I don't think will change without government and legal system reform, is that companies are afraid to not let bad or lazy workers go due to being sued (even in states like Massachusetts where you are employed at will - you can be let go for ANY reason).  Now I can't speak for every company, but I have seen many that try to "find something" for their poor/under-performing employees - this has a toxic affect.  What is the incentive for your strong employees to continue working hard, when they can see their co-workers get by?
+
+The first step in my opinion is to change our educational system and the outrageous costs associated with it; placing a focus (as Jay Banfield and several of the commenters mentioned) on teaching people coming into the work force actual relevant skills and work ethic.  I for one learned all I needed to know about history in Jr. High School - I don't need more history classes in college.  We also need to start focusing on <a href="http://www.virtxpert.com/teach-why-before-you-teach-how/" target="_blank">why it is important to do something, not just the how</a>.  Inline with the changes to our educational systems, our corporations need to reset and focus their expectations on what actual skills a good worker can poses.  Sorry but it is not me lacking in skills because I cant design, build, support and administer  your entire infrastructure while writing all your custom software and balancing your budget!
+
+This post relies solely on the NY Times review of Gary Beach's book, and not a full book review.
